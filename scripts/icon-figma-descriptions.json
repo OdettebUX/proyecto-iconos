@@ -1,0 +1,158 @@
+{
+  "anvil": {
+    "es": "Yunque; forja, herrería, trabajo manual o industria pesada.",
+    "en": "Anvil; forge, blacksmith, manual work or heavy industry.",
+    "keywordsEs": "yunque, forja, herrería, industria, metal, martillo, lucide, lucide.dev",
+    "keywordsEn": "anvil, forge, blacksmith, industry, metal, hammer, lucide, lucide.dev"
+  },
+  "archive": {
+    "es": "Caja de archivo; guardar, almacenar o archivar documentos y elementos.",
+    "en": "Archive box; save, store, or archive documents and items.",
+    "keywordsEs": "archivo, caja, almacenar, guardar, documentos, archivar, lucide, lucide.dev",
+    "keywordsEn": "archive, box, store, save, documents, file, lucide, lucide.dev"
+  },
+  "brick-wall": {
+    "es": "Muro de ladrillos; construcción, barrera, mampostería o estructura.",
+    "en": "Brick wall; construction, barrier, masonry or structure.",
+    "keywordsEs": "ladrillo, muro, pared, construcción, barrera, mampostería, lucide, lucide.dev",
+    "keywordsEn": "brick, wall, construction, barrier, masonry, structure, lucide, lucide.dev"
+  },
+  "building": {
+    "es": "Edificio de oficinas; negocio, empresa, inmueble o trabajo.",
+    "en": "Office building; business, company, real estate or work.",
+    "keywordsEs": "edificio, oficina, empresa, negocio, inmueble, trabajo, lucide, lucide.dev",
+    "keywordsEn": "building, office, company, business, real estate, work, lucide, lucide.dev"
+  },
+  "building-2": {
+    "es": "Edificio alternativo; sede, corporación, ciudad o inmueble.",
+    "en": "Alternative building; headquarters, corporation, city or real estate.",
+    "keywordsEs": "edificio, sede, corporación, ciudad, inmueble, oficina, lucide, lucide.dev",
+    "keywordsEn": "building, headquarters, corporation, city, real estate, office, lucide, lucide.dev"
+  },
+  "castle": {
+    "es": "Castillo; historia, medievalismo, fortaleza o fantasía.",
+    "en": "Castle; history, medieval, fortress or fantasy.",
+    "keywordsEs": "castillo, fortaleza, medieval, historia, torre, fantasía, lucide, lucide.dev",
+    "keywordsEn": "castle, fortress, medieval, history, tower, fantasy, lucide, lucide.dev"
+  },
+  "church": {
+    "es": "Iglesia; religión, culto, comunidad o espiritualidad.",
+    "en": "Church; religion, worship, community or spirituality.",
+    "keywordsEs": "iglesia, religión, culto, capilla, catedral, fe, lucide, lucide.dev",
+    "keywordsEn": "church, religion, worship, chapel, cathedral, faith, lucide, lucide.dev"
+  },
+  "cookie": {
+    "es": "Galleta; dulce, repostería, cookies del navegador o preferencias.",
+    "en": "Cookie; sweet, baked treat, browser cookies or preferences.",
+    "keywordsEs": "galleta, cookie, dulce, repostería, navegador, preferencias, lucide, lucide.dev",
+    "keywordsEn": "cookie, biscuit, sweet, browser, preferences, treat, lucide, lucide.dev"
+  },
+  "dam": {
+    "es": "Presa o embalse; agua, energía hidráulica o infraestructura.",
+    "en": "Dam; water, hydroelectric power or infrastructure.",
+    "keywordsEs": "presa, embalse, agua, hidráulica, energía, infraestructura, lucide, lucide.dev",
+    "keywordsEn": "dam, reservoir, water, hydroelectric, energy, infrastructure, lucide, lucide.dev"
+  },
+  "factory": {
+    "es": "Fábrica; manufactura, industria, producción o planta industrial.",
+    "en": "Factory; manufacturing, industry, production or industrial plant.",
+    "keywordsEs": "fábrica, industria, manufactura, planta, producción, chimenea, lucide, lucide.dev",
+    "keywordsEn": "factory, industry, manufacturing, plant, production, chimney, lucide, lucide.dev"
+  },
+  "fence": {
+    "es": "Valla o cerca; límite, propiedad, jardín o seguridad.",
+    "en": "Fence; boundary, property, garden or security.",
+    "keywordsEs": "valla, cerca, límite, propiedad, jardín, seguridad, lucide, lucide.dev",
+    "keywordsEn": "fence, boundary, property, garden, security, barrier, lucide, lucide.dev"
+  },
+  "graduation-cap": {
+    "es": "Birrete de graduación; educación, universidad, logro o diploma.",
+    "en": "Graduation cap; education, university, achievement or diploma.",
+    "keywordsEs": "birrete, graduación, educación, universidad, diploma, logro, lucide, lucide.dev",
+    "keywordsEn": "graduation, cap, education, university, diploma, achievement, lucide, lucide.dev"
+  },
+  "hospital": {
+    "es": "Hospital; salud, medicina, urgencias o atención médica.",
+    "en": "Hospital; health, medicine, emergency or medical care.",
+    "keywordsEs": "hospital, salud, medicina, urgencias, clínica, médico, lucide, lucide.dev",
+    "keywordsEn": "hospital, health, medicine, emergency, clinic, doctor, lucide, lucide.dev"
+  },
+  "hotel": {
+    "es": "Hotel; alojamiento, viaje, hospedaje o turismo.",
+    "en": "Hotel; accommodation, travel, lodging or tourism.",
+    "keywordsEs": "hotel, alojamiento, viaje, hospedaje, turismo, habitación, lucide, lucide.dev",
+    "keywordsEn": "hotel, accommodation, travel, lodging, tourism, room, lucide, lucide.dev"
+  },
+  "house": {
+    "es": "Casa o vivienda; hogar, inicio, residencia o inmueble.",
+    "en": "House; home, start, residence or real estate.",
+    "keywordsEs": "casa, hogar, vivienda, inicio, residencia, inmueble, lucide, lucide.dev",
+    "keywordsEn": "house, home, start, residence, real estate, dwelling, lucide, lucide.dev"
+  },
+  "house-heart": {
+    "es": "Casa con corazón; hogar amado, propiedad favorita o bienvenida.",
+    "en": "House with heart; beloved home, favorite property or welcome.",
+    "keywordsEs": "casa, corazón, hogar, amor, favorito, bienvenida, lucide, lucide.dev",
+    "keywordsEn": "house, heart, home, love, favorite, welcome, lucide, lucide.dev"
+  },
+  "house-plug": {
+    "es": "Casa con enchufe; hogar inteligente, domótica o energía en casa.",
+    "en": "House with plug; smart home, home automation or home energy.",
+    "keywordsEs": "casa, enchufe, hogar inteligente, domótica, energía, electricidad, lucide, lucide.dev",
+    "keywordsEn": "house, plug, smart home, automation, energy, electricity, lucide, lucide.dev"
+  },
+  "house-plus": {
+    "es": "Casa con más; añadir hogar, nueva propiedad o ampliar vivienda.",
+    "en": "House with plus; add home, new property or expand dwelling.",
+    "keywordsEs": "casa, añadir, nueva propiedad, ampliar, vivienda, más, lucide, lucide.dev",
+    "keywordsEn": "house, add, new, property, expand, dwelling, plus, lucide, lucide.dev"
+  },
+  "house-wifi": {
+    "es": "Casa con wifi; hogar conectado, red doméstica o internet en casa.",
+    "en": "House with wifi; connected home, home network or home internet.",
+    "keywordsEs": "casa, wifi, hogar conectado, red, internet, domótica, lucide, lucide.dev",
+    "keywordsEn": "house, wifi, connected home, network, internet, smart, lucide, lucide.dev"
+  },
+  "landmark": {
+    "es": "Monumento o punto de referencia; lugar histórico, banco o institución.",
+    "en": "Landmark; historic site, bank, government or institution.",
+    "keywordsEs": "monumento, referencia, histórico, banco, institución, columnas, lucide, lucide.dev",
+    "keywordsEn": "landmark, monument, historic, bank, government, institution, lucide, lucide.dev"
+  },
+  "school": {
+    "es": "Escuela; educación, colegio, aprendizaje o enseñanza.",
+    "en": "School; education, learning, teaching or academic.",
+    "keywordsEs": "escuela, colegio, educación, aprendizaje, enseñanza, aula, lucide, lucide.dev",
+    "keywordsEn": "school, education, learning, teaching, academic, class, lucide, lucide.dev"
+  },
+  "store": {
+    "es": "Tienda o comercio; venta, compra, negocio o establecimiento.",
+    "en": "Store or shop; retail, purchase, business or establishment.",
+    "keywordsEs": "tienda, comercio, venta, compra, negocio, establecimiento, lucide, lucide.dev",
+    "keywordsEn": "store, shop, retail, purchase, business, establishment, lucide, lucide.dev"
+  },
+  "theater": {
+    "es": "Teatro; artes escénicas, espectáculo, drama o entretenimiento.",
+    "en": "Theater; performing arts, show, drama or entertainment.",
+    "keywordsEs": "teatro, artes, espectáculo, drama, entretenimiento, máscaras, lucide, lucide.dev",
+    "keywordsEn": "theater, arts, show, drama, entertainment, masks, lucide, lucide.dev"
+  },
+  "university": {
+    "es": "Universidad; educación superior, campus, institución académica.",
+    "en": "University; higher education, campus, academic institution.",
+    "keywordsEs": "universidad, educación superior, campus, academia, institución, lucide, lucide.dev",
+    "keywordsEn": "university, higher education, campus, academic, institution, lucide, lucide.dev"
+  },
+  "utility-pole": {
+    "es": "Poste de electricidad; tendido eléctrico, infraestructura o suministro.",
+    "en": "Utility pole; power line, infrastructure or utility supply.",
+    "keywordsEs": "poste, electricidad, tendido, infraestructura, suministro, cable, lucide, lucide.dev",
+    "keywordsEn": "utility pole, power line, electricity, infrastructure, supply, cable, lucide, lucide.dev"
+  },
+  "warehouse": {
+    "es": "Almacén o nave industrial; logística, depósito, inventario o distribución.",
+    "en": "Warehouse; logistics, storage, inventory or distribution.",
+    "keywordsEs": "almacén, nave, logística, depósito, inventario, distribución, lucide, lucide.dev",
+    "keywordsEn": "warehouse, logistics, storage, inventory, distribution, depot, lucide, lucide.dev"
+  }
+}

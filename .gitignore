@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Caché npm local (evita EACCES si ~/.npm tiene permisos incorrectos)
+.npm-cache
+
+*storybook.log
+storybook-static
+
+# Payloads generados para publicar en Figma via MCP
+.figma-chunk-*
+.figma-push-payload-*.json
+.mcp-*.json
+.mcp-final-*.json
+.mcp-push-*.json
+.payload-use-figma-*.json
+.agent-figma-code-*.txt
+.invoke*.fold
+.invoke*.json
+
+# Archivos locales accidentales/scratch
+/call
+/mcp
+/plugin-figma-figma
+/use_figma
