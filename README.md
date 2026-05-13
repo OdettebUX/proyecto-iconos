@@ -8,6 +8,13 @@ Sistema de iconos basado en [Lucide](https://lucide.dev/) para mantener sincroni
 
 La idea del flujo es la del esquema adjunto: el agente trabaja desde codigo, usa las skills del proyecto para preparar los iconos, genera payloads para `use_figma` y termina publicando los mismos activos en Figma y en Storybook.
 
+## Accesos
+
+- Showcase desplegado en Vercel: https://proyectoiconos.vercel.app
+- Storybook local: `npm run storybook`
+- Build estatico de Storybook: `npm run build-storybook`
+- Documento Figma: https://www.figma.com/design/NMS8TOZEt2GBnRv1lLaLxf
+
 ## Esquema del Flujo
 
 ```mermaid
